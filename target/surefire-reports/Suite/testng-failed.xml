@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test verbose="0" name="Test1(failed)">
+    <classes>
+      <class name="com.NaukriTestCases.TestCase1">
+        <methods>
+          <include name="UploadCV"/>
+          <include name="extent"/>
+          <include name="registerthemethods"/>
+          <include name="UnregisterAll"/>
+          <include name="setUp"/>
+          <include name="AutoComplete"/>
+          <include name="UpdateDomine"/>
+          <include name="teardown"/>
+          <include name="LogOut"/>
+          <include name="VerifyProfile"/>
+          <include name="CaptureStatus"/>
+        </methods>
+      </class> <!-- com.NaukriTestCases.TestCase1 -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+  <test verbose="0" name="Test2(failed)">
+    <classes>
+      <class name="com.NaukriTestCases.TestCase2">
+        <methods>
+          <include name="LogOut"/>
+          <include name="UploadCV"/>
+          <include name="extent"/>
+          <include name="registerthemethods"/>
+          <include name="UnregisterAll"/>
+          <include name="setUp"/>
+          <include name="VerifyProfile"/>
+          <include name="teardown"/>
+          <include name="AutoComplete"/>
+          <include name="UpdateDomine"/>
+          <include name="CaptureStatus"/>
+        </methods>
+      </class> <!-- com.NaukriTestCases.TestCase2 -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+  <test verbose="0" name="Test3(failed)">
+    <classes>
+      <class name="com.NaukriTestCases.TestCase3">
+        <methods>
+          <include name="extent"/>
+          <include name="AutoComplete"/>
+          <include name="registerthemethods"/>
+          <include name="LogOut"/>
+          <include name="VerifyProfile"/>
+          <include name="UploadCV"/>
+          <include name="UnregisterAll"/>
+          <include name="setUp"/>
+          <include name="teardown"/>
+          <include name="CaptureStatus"/>
+          <include name="UpdateDomine"/>
+        </methods>
+      </class> <!-- com.NaukriTestCases.TestCase3 -->
+    </classes>
+  </test> <!-- Test3(failed) -->
+  <test verbose="0" name="Test4(failed)">
+    <classes>
+      <class name="com.NaukriTestCases.TestCase4">
+        <methods>
+          <include name="extent"/>
+          <include name="VerifyProfile"/>
+          <include name="registerthemethods"/>
+          <include name="AutoComplete"/>
+          <include name="UnregisterAll"/>
+          <include name="setUp"/>
+          <include name="teardown"/>
+          <include name="CaptureStatus"/>
+          <include name="LogOut"/>
+          <include name="UploadCV"/>
+          <include name="UpdateDomine"/>
+        </methods>
+      </class> <!-- com.NaukriTestCases.TestCase4 -->
+    </classes>
+  </test> <!-- Test4(failed) -->
+  <test verbose="0" name="Test5(failed)">
+    <classes>
+      <class name="com.NaukriTestCases.TestCase5">
+        <methods>
+          <include name="AutoComplete"/>
+          <include name="UpdateDomine"/>
+          <include name="VerifyProfile"/>
+          <include name="extent"/>
+          <include name="registerthemethods"/>
+          <include name="UnregisterAll"/>
+          <include name="LogOut"/>
+          <include name="setUp"/>
+          <include name="teardown"/>
+          <include name="UploadCV"/>
+          <include name="CaptureStatus"/>
+        </methods>
+      </class> <!-- com.NaukriTestCases.TestCase5 -->
+    </classes>
+  </test> <!-- Test5(failed) -->
+</suite> <!-- Failed suite [Suite] -->

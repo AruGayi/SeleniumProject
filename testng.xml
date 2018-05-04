@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" verbose="1">
+	<test name="Test1">
+		<classes>
+			<class name="com.NaukriTestCases.TestCase1" />
+		</classes>
+	</test> 
+	<test name="Test2">
+		<classes>
+			<class name="com.NaukriTestCases.TestCase2" />
+		</classes>
+	</test> 
+	<test name="Test3">
+		<classes>
+			<class name="com.NaukriTestCases.TestCase3" />
+		</classes>
+	</test> 
+	<test name="Test4">
+		<classes>
+			<class name="com.NaukriTestCases.TestCase4" />
+		</classes>
+	</test> 
+	<test name="Test5">
+		<classes>
+			<class name="com.NaukriTestCases.TestCase5" />
+		</classes>
+	</test> 
+</suite> <!-- Suite -->

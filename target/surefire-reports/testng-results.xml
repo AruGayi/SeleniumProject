@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="25" failed="0" ignored="0" total="25" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="116" started-at="2018-03-10T16:40:19Z" finished-at="2018-03-10T16:40:19Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="15" started-at="2018-03-10T16:40:19Z" finished-at="2018-03-10T16:40:19Z">
+      <class name="com.NaukriTestCases.TestCase1">
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase1@8e6209]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="setUp()[pri:0, instance:com.NaukriTestCases.TestCase1@8e6209]" name="setUp" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="VerifyProfile()[pri:1, instance:com.NaukriTestCases.TestCase1@8e6209]" name="VerifyProfile" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyProfile -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase1@8e6209]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="UpdateDomine()[pri:2, instance:com.NaukriTestCases.TestCase1@8e6209]" name="UpdateDomine" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateDomine -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase1@8e6209]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="LogOut()[pri:6, instance:com.NaukriTestCases.TestCase1@8e6209]" name="LogOut" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase1@8e6209]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="teardown()[pri:0, instance:com.NaukriTestCases.TestCase1@8e6209]" name="teardown" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="SKIP" signature="UploadCV()[pri:5, instance:com.NaukriTestCases.TestCase1@8e6209]" name="UploadCV" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UploadCV -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase1@8e6209]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase1@8e6209]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="AutoComplete()[pri:4, instance:com.NaukriTestCases.TestCase1@8e6209]" name="AutoComplete" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutoComplete -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase1@8e6209]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase1@8e6209]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase1@8e6209]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase1@8e6209]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+      </class> <!-- com.NaukriTestCases.TestCase1 -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="0" started-at="2018-03-10T16:40:19Z" finished-at="2018-03-10T16:40:19Z">
+      <class name="com.NaukriTestCases.TestCase2">
+        <test-method status="SKIP" signature="LogOut()[pri:6, instance:com.NaukriTestCases.TestCase2@ef309d]" name="LogOut" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase2@ef309d]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase2@ef309d]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="VerifyProfile()[pri:1, instance:com.NaukriTestCases.TestCase2@ef309d]" name="VerifyProfile" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyProfile -->
+        <test-method status="SKIP" signature="AutoComplete()[pri:4, instance:com.NaukriTestCases.TestCase2@ef309d]" name="AutoComplete" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutoComplete -->
+        <test-method status="SKIP" signature="UpdateDomine()[pri:2, instance:com.NaukriTestCases.TestCase2@ef309d]" name="UpdateDomine" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateDomine -->
+        <test-method status="SKIP" signature="setUp()[pri:0, instance:com.NaukriTestCases.TestCase2@ef309d]" name="setUp" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase2@ef309d]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase2@ef309d]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="UploadCV()[pri:5, instance:com.NaukriTestCases.TestCase2@ef309d]" name="UploadCV" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UploadCV -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase2@ef309d]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase2@ef309d]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase2@ef309d]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase2@ef309d]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase2@ef309d]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase2@ef309d]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="teardown()[pri:0, instance:com.NaukriTestCases.TestCase2@ef309d]" name="teardown" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.NaukriTestCases.TestCase2 -->
+    </test> <!-- Test2 -->
+    <test name="Test3" duration-ms="0" started-at="2018-03-10T16:40:19Z" finished-at="2018-03-10T16:40:19Z">
+      <class name="com.NaukriTestCases.TestCase3">
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase3@121e813]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="UpdateDomine()[pri:2, instance:com.NaukriTestCases.TestCase3@121e813]" name="UpdateDomine" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateDomine -->
+        <test-method status="SKIP" signature="LogOut()[pri:6, instance:com.NaukriTestCases.TestCase3@121e813]" name="LogOut" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method status="SKIP" signature="AutoComplete()[pri:4, instance:com.NaukriTestCases.TestCase3@121e813]" name="AutoComplete" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutoComplete -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase3@121e813]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase3@121e813]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="VerifyProfile()[pri:1, instance:com.NaukriTestCases.TestCase3@121e813]" name="VerifyProfile" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyProfile -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase3@121e813]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase3@121e813]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="UploadCV()[pri:5, instance:com.NaukriTestCases.TestCase3@121e813]" name="UploadCV" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UploadCV -->
+        <test-method status="SKIP" signature="setUp()[pri:0, instance:com.NaukriTestCases.TestCase3@121e813]" name="setUp" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase3@121e813]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase3@121e813]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase3@121e813]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase3@121e813]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase3@121e813]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="teardown()[pri:0, instance:com.NaukriTestCases.TestCase3@121e813]" name="teardown" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.NaukriTestCases.TestCase3 -->
+    </test> <!-- Test3 -->
+    <test name="Test4" duration-ms="16" started-at="2018-03-10T16:40:19Z" finished-at="2018-03-10T16:40:19Z">
+      <class name="com.NaukriTestCases.TestCase4">
+        <test-method status="SKIP" signature="UploadCV()[pri:5, instance:com.NaukriTestCases.TestCase4@fed156]" name="UploadCV" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UploadCV -->
+        <test-method status="SKIP" signature="VerifyProfile()[pri:1, instance:com.NaukriTestCases.TestCase4@fed156]" name="VerifyProfile" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyProfile -->
+        <test-method status="SKIP" signature="AutoComplete()[pri:4, instance:com.NaukriTestCases.TestCase4@fed156]" name="AutoComplete" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutoComplete -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase4@fed156]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase4@fed156]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase4@fed156]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="setUp()[pri:0, instance:com.NaukriTestCases.TestCase4@fed156]" name="setUp" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="UpdateDomine()[pri:2, instance:com.NaukriTestCases.TestCase4@fed156]" name="UpdateDomine" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateDomine -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase4@fed156]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase4@fed156]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase4@fed156]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase4@fed156]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase4@fed156]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="teardown()[pri:0, instance:com.NaukriTestCases.TestCase4@fed156]" name="teardown" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase4@fed156]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase4@fed156]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="LogOut()[pri:6, instance:com.NaukriTestCases.TestCase4@fed156]" name="LogOut" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+      </class> <!-- com.NaukriTestCases.TestCase4 -->
+    </test> <!-- Test4 -->
+    <test name="Test5" duration-ms="0" started-at="2018-03-10T16:40:19Z" finished-at="2018-03-10T16:40:19Z">
+      <class name="com.NaukriTestCases.TestCase5">
+        <test-method status="FAIL" signature="extent()[pri:0, instance:com.NaukriTestCases.TestCase5@1bfb90a]" name="extent" is-config="true" duration-ms="50" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <exception class="java.lang.NoClassDefFoundError">
+            <message>
+              <![CDATA[freemarker/template/TemplateModelException]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NoClassDefFoundError: freemarker/template/TemplateModelExceptionat com.Library.SetUpUtils.extent(SetUpUtils.java:58)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:451)at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:401)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:293)at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:91)at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)Caused by: java.lang.ClassNotFoundException: freemarker.template.TemplateModelExceptionat java.net.URLClassLoader.findClass(Unknown Source)at java.lang.ClassLoader.loadClass(Unknown Source)at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)at java.lang.ClassLoader.loadClass(Unknown Source)... 24 more]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NoClassDefFoundError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extent -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase5@1bfb90a]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="UploadCV()[pri:5, instance:com.NaukriTestCases.TestCase5@1bfb90a]" name="UploadCV" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <exception class="java.lang.NoClassDefFoundError">
+            <message>
+              <![CDATA[freemarker/template/TemplateModelException]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NoClassDefFoundError: freemarker/template/TemplateModelExceptionat com.Library.SetUpUtils.extent(SetUpUtils.java:58)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:451)at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:401)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:293)at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:91)at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)Caused by: java.lang.ClassNotFoundException: freemarker.template.TemplateModelExceptionat java.net.URLClassLoader.findClass(Unknown Source)at java.lang.ClassLoader.loadClass(Unknown Source)at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)at java.lang.ClassLoader.loadClass(Unknown Source)... 24 more]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NoClassDefFoundError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UploadCV -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase5@1bfb90a]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="teardown()[pri:0, instance:com.NaukriTestCases.TestCase5@1bfb90a]" name="teardown" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="SKIP" signature="UpdateDomine()[pri:2, instance:com.NaukriTestCases.TestCase5@1bfb90a]" name="UpdateDomine" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <exception class="java.lang.NoClassDefFoundError">
+            <message>
+              <![CDATA[freemarker/template/TemplateModelException]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NoClassDefFoundError: freemarker/template/TemplateModelExceptionat com.Library.SetUpUtils.extent(SetUpUtils.java:58)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:451)at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:401)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:293)at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:91)at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)Caused by: java.lang.ClassNotFoundException: freemarker.template.TemplateModelExceptionat java.net.URLClassLoader.findClass(Unknown Source)at java.lang.ClassLoader.loadClass(Unknown Source)at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)at java.lang.ClassLoader.loadClass(Unknown Source)... 24 more]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NoClassDefFoundError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateDomine -->
+        <test-method status="SKIP" signature="VerifyProfile()[pri:1, instance:com.NaukriTestCases.TestCase5@1bfb90a]" name="VerifyProfile" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <exception class="java.lang.NoClassDefFoundError">
+            <message>
+              <![CDATA[freemarker/template/TemplateModelException]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NoClassDefFoundError: freemarker/template/TemplateModelExceptionat com.Library.SetUpUtils.extent(SetUpUtils.java:58)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:451)at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:401)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:293)at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:91)at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)Caused by: java.lang.ClassNotFoundException: freemarker.template.TemplateModelExceptionat java.net.URLClassLoader.findClass(Unknown Source)at java.lang.ClassLoader.loadClass(Unknown Source)at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)at java.lang.ClassLoader.loadClass(Unknown Source)... 24 more]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NoClassDefFoundError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyProfile -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase5@1bfb90a]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase5@1bfb90a]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase5@1bfb90a]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase5@1bfb90a]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="AutoComplete()[pri:4, instance:com.NaukriTestCases.TestCase5@1bfb90a]" name="AutoComplete" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <exception class="java.lang.NoClassDefFoundError">
+            <message>
+              <![CDATA[freemarker/template/TemplateModelException]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NoClassDefFoundError: freemarker/template/TemplateModelExceptionat com.Library.SetUpUtils.extent(SetUpUtils.java:58)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:451)at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:401)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:293)at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:91)at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)Caused by: java.lang.ClassNotFoundException: freemarker.template.TemplateModelExceptionat java.net.URLClassLoader.findClass(Unknown Source)at java.lang.ClassLoader.loadClass(Unknown Source)at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)at java.lang.ClassLoader.loadClass(Unknown Source)... 24 more]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NoClassDefFoundError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutoComplete -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase5@1bfb90a]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="CaptureStatus(org.testng.ITestResult)[pri:0, instance:com.NaukriTestCases.TestCase5@1bfb90a]" name="CaptureStatus" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureStatus -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase5@1bfb90a]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="setUp()[pri:0, instance:com.NaukriTestCases.TestCase5@1bfb90a]" name="setUp" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="registerthemethods(java.lang.reflect.Method)[pri:0, instance:com.NaukriTestCases.TestCase5@1bfb90a]" name="registerthemethods" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerthemethods -->
+        <test-method status="SKIP" signature="LogOut()[pri:6, instance:com.NaukriTestCases.TestCase5@1bfb90a]" name="LogOut" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <exception class="java.lang.NoClassDefFoundError">
+            <message>
+              <![CDATA[freemarker/template/TemplateModelException]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NoClassDefFoundError: freemarker/template/TemplateModelExceptionat com.Library.SetUpUtils.extent(SetUpUtils.java:58)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:451)at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:401)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:293)at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:91)at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)Caused by: java.lang.ClassNotFoundException: freemarker.template.TemplateModelExceptionat java.net.URLClassLoader.findClass(Unknown Source)at java.lang.ClassLoader.loadClass(Unknown Source)at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)at java.lang.ClassLoader.loadClass(Unknown Source)... 24 more]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NoClassDefFoundError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method status="SKIP" signature="UnregisterAll()[pri:0, instance:com.NaukriTestCases.TestCase5@1bfb90a]" name="UnregisterAll" is-config="true" duration-ms="0" started-at="2018-03-10T22:10:19Z" finished-at="2018-03-10T22:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UnregisterAll -->
+      </class> <!-- com.NaukriTestCases.TestCase5 -->
+    </test> <!-- Test5 -->
+  </suite> <!-- Suite -->
+</testng-results>
